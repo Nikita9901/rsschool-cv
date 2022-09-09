@@ -50,7 +50,9 @@ const favoriteReducer = (state = initialState, action) => {
 };
 
 ```
-* Codewars: [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
+
+Codewars: [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
+
 ```
 function findUniq(arr) {
   let k = arr[0];
@@ -67,6 +69,7 @@ function findUniq(arr) {
 }
 
 ```
+
 # Work expierence
 * **EASYEXPO (front-end developer)**
     * CSS, TypeScript
