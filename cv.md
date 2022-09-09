@@ -17,7 +17,7 @@ I am 19 years old, I work as a phone repair manager. I'm a student of belarussia
 # Skills
 * HTML
 * CSS
-* JavaScript (Fundamentals, ES6+, DOM, JSON, asynchronous requests)
+* JavaScript/TypeScript (Fundamentals, ES6+, DOM, JSON, asynchronous requests)
 * React (React-DOM, React hooks, functional components)
 * Redux (Redux-thunk, React-redux)
 * Python (PyTelegramBot, OOP, PyGame, data structures)
@@ -50,6 +50,14 @@ const favoriteReducer = (state = initialState, action) => {
 };
 
 ```
+# Work expierence
+* **EASYEXPO (front-end developer)**
+    * CSS, TypeScript
+    * React (React hooks, Functional components, asynchronous requests)
+* **Pet project:** [Star Wars](https://github.com/Nikita9901/pet-project-Star-Wars)
+    * HTML, CSS, JavaScript
+    * React (React-router, React hooks, Functional components)
+    * Redux (React-redux, Redux-thunk)
 # Education
 * **Belarusian State University of Informatics and Radioelectronics**
     * Faculty of Information Technologies and Management
