@@ -8,7 +8,7 @@
 
 # About Me
 I am 19 years old, I work as a phone repair manager. I'm a student of belarussian state university of informatics and radioelectronics. I and my team have our own start-up: website, that provides organizers, exponents and visitors of exhibitions with opportunity to communicate with each other. But I think thats not my limit and i want more. My goal is to gain knowledge in the field of front-end development.
-**My strengths:**
+* **My strengths:**
     * Quick learner
     * Diligence
     * Team playing
