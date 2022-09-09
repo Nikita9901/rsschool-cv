@@ -50,6 +50,23 @@ const favoriteReducer = (state = initialState, action) => {
 };
 
 ```
+* Codewars: [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
+```
+function findUniq(arr) {
+  let k = arr[0];
+  let num = arr[0];
+  if (num === arr[1]) {
+    arr.forEach((el) => {
+      if (el != num) k = el;
+    });
+  } else {
+    if (arr[2] === arr[1]) k = num;
+    else k = arr[1];
+  }
+  return k;
+}
+
+```
 # Work expierence
 * **EASYEXPO (front-end developer)**
     * CSS, TypeScript
