@@ -29,29 +29,7 @@ I am 19 years old, I work as a phone repair manager. I'm a student of belarussia
 * Linux
 * Photoshop, GIMP, Webstorm, VS Code, 
 # Code Examples
-```
-const initialState = getLocalStorage("store");
-
-const favoriteReducer = (state = initialState, action) => {
-  switch (action.type) {
-    case ADD_PERSON_TO_FAVORITE:
-      return {
-        ...state,
-        ...action.payload,
-      };
-    case REMOVE_PERSON_FROM_FAVORITE:
-      const { [action.payload]: obj, ...rest } = state;
-      return {
-        ...rest,
-      };
-    default:
-      return state;
-  }
-};
-
-```
-
-Codewars: [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
+* Codewars: [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
 
 ```
 function findUniq(arr) {
